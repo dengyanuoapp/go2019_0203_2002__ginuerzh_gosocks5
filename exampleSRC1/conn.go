@@ -1,0 +1,1 @@
+../gosocks5/conn.go
